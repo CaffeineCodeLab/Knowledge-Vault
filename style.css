@@ -40,8 +40,8 @@ body {
 
 .nav-links a{
     text-decoration: none;
-    color: #333333;
-    font-size: 15px;
+    color: #000000FF;
+    font-size: 16px;
     font-weight: 500;
 }
 
@@ -50,7 +50,7 @@ body {
 }
 
 .btn-primary{
-    background-color: #3d8b4e;
+    background-color: #469165FF;;
     color: #ffffff;
     border: none;
     padding: 12px 16px;
@@ -69,6 +69,9 @@ body {
     background-color: #469165FF;
     box-shadow: 0px 4px 12px 0px #3D8B4E59;
 }
+
+
+
 
 /* Banner */
 .banner{
@@ -89,7 +92,7 @@ body {
     align-items: center;
     gap: 8px;
     background-color: #ffffff;
-    color: #1a1a1a;
+    color: #469165;
     border: 1.5px solid #3d8b4e
     font-size: 14px;
     font-weight: 500;
@@ -106,22 +109,23 @@ body {
 }
 
 .banner h1{
-    font-size: 52px;
+    font-size: 62px;
     font-weight: 800px;
     color: #ffffff;
     line-height: 1.2;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
 }
 
 .highlight{
     color: #4caf72;
+    font-size: 64px;
 }
 
 .banner-subtitle{
     font-size: 16px;
-    color: #d0d8e0;
-    line-height: 1.7;
-    margin-bottom: 36px;
+    color: #FFFFFF;
+    line-height: 24px;
+    margin-bottom: 32px;
 }
 
 .banner-buttons{
@@ -132,7 +136,7 @@ body {
 }
 
 .banner-buttons .btn-primary img{
-    height: 16px;
+    height: 20px;
 }
 
 .btn-secondary{
@@ -152,6 +156,9 @@ body {
 .btn-secondary:hover{
     background-color: #ffffff1a;
 }
+
+
+
 
 /* Notes */
 .notes-section{
@@ -224,6 +231,7 @@ body {
 
 
 
+
 /* Second Brain Section */
 
 .second-brain{
@@ -293,6 +301,9 @@ body {
     height: 22px;
 }
 
+
+
+
 /* EARLY ACCESS */
 
 .early-access{
@@ -330,6 +341,9 @@ body {
     font-size: 16px;
     color: #627382FF;
 }
+
+
+
 
 /* Footer */
 .footer{
